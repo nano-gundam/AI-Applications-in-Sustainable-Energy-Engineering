@@ -1,0 +1,9 @@
+
+1- Open "Logistic Regression.ipynb".
+2- Do not make any change to other files.
+3- Review all cells and try to understand all lines of code.
+4- Add your codes just where you see:
+
+# YOUR CODE STARTS HERE
+YOUR CODE
+# YOUR CODE ENDS HERE
